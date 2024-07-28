@@ -1,5 +1,7 @@
 ## Simple ESPNow Controller
 
+The following project description is a brief of the full explanation [here](https://www.nunonogueira.com/battlebutbot/2wd-bot).
+
 ![Top view of the controller](<../img/IMG_8857 – grande.jpeg>)
 
 ![Other view of the controller](<../img/IMG_8858 – grande.jpeg>)
