@@ -1,8 +1,8 @@
 ## Simple ESPNow Controller
 
-![Top view of the controller](<../img/IMG_8857 – grande.jpeg>)
+![IMG_8857 – grande](https://github.com/user-attachments/assets/cd569d64-1d51-4676-933f-3b31bb745eb0)
 
-![Other view of the controller](<../img/IMG_8858 – grande.jpeg>)
+![IMG_8858 – grande](https://github.com/user-attachments/assets/26c5e078-2151-4ab8-bbf9-7a2c298d1d25)
 
 ### Hardware
 
@@ -24,6 +24,6 @@ I've also mapped the read analog voltage from 0 until 4096 to -100 until 100. Th
 
 The enclosure to glue everything together is a 12cm x 9cm PLA printed design with a border radius of 2cm.
 
-![Final Design](../img/IMG_8859.jpeg)
+![IMG_8859](https://github.com/user-attachments/assets/1e5b0e4b-1376-4533-90a7-0f9c2b434349)
 
 That's all folks! Have safe drives ;)
