@@ -1,0 +1,7 @@
+.pio
+.vscode
+board
+.DS_Store
+*.lck
+.pio
+#auto_saved_files#
