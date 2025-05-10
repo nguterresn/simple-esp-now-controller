@@ -10,7 +10,7 @@
 
 #define ADC_RESOLUTION 4096
 
-#define CALIBRATION_DELTA (25) // The lower the Vref, the bigger should be this number.
+#define CALIBRATION_DELTA (45) // The lower the Vref, the bigger should be this number.
 #define UPDATE_DELTA (5)
 
 struct coor
